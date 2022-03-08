@@ -40,7 +40,7 @@ As a huge fan of minimalist design and a fan of the Invite box, I thought it wou
     ```
 1. Place this specific `<div>` wherever you want your invite to appear:
     ```html
-    <div id="discordInviteBox"></div>
+    <div class="discordInviteBox"></div>
     ```
 
 ### Optional Values, default values are in (brackets)
